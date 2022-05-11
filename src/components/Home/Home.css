@@ -1,0 +1,27 @@
+.Home {
+  /* border: 1px solid black; */
+  width: 90%;
+  margin: 0 auto;
+  /* color: white; */
+  /* background-color: rgba(12, 7, 7, 0.562); */
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  /* border: 2px solid violet; */
+  /* background-color: gray; */
+  /* width: 120%; */
+}
+
+.left-container {
+  width: 20%;
+}
+.Home .searchAll {
+  width: 50%;
+  border: none;
+  outline: none;
+  border-bottom: 5px solid gray;
+  text-align: center;
+  font-size: 1.2rem;
+}

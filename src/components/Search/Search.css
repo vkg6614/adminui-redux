@@ -1,0 +1,19 @@
+.search-container {
+  border: dotted 3px green;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding: 1em;
+  /* display: flex; */
+  /* margin: 4px; */
+}
+
+.search-container select,
+button {
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+  width: 100%;
+  /* display: inline-block; */
+  border: none;
+  outline: none;
+  border-bottom: 1px solid black;
+}
